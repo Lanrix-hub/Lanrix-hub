@@ -1,7 +1,7 @@
 <h1 align="center">🌍 Hi 👋 I'm Alexander</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Backend+Engineer;DevOps+Engineer;API+%26+Infrastructure;Highload+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Backend+Developer;DevOps+Engineer;API+%26+Infrastructure;Highload+Systems;Compiling+Code...;Done!" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,git,vscode,html,flask,dotnet" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,git,vscode,html,css,flask,dotnet" />
 </p>
 
 ---
