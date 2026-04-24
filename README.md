@@ -24,7 +24,7 @@
 - ⚙️ Focus: backend architecture, APIs, infrastructure
 - 🤝 Open to collaborations
 - 😄 Pronouns: **He/Him**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/Lanrix-hub/readme/issues/2)!
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/Lanrix-hub/Lanrix-hub/issues/1)!
 ---
 
 ## 🧰 Tech Stack
