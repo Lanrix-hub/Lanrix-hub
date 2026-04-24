@@ -5,14 +5,20 @@
 </p>
 
 <p align="center">
-  Backend & DevOps Engineer ⚙️ <br/>
+  Backend Developer & DevOps Engineer ⚙️ <br/>
   I build scalable backend systems and keep them running.
 </p>
 
 <p align="center">
-  <a href="https://lanrix-hub.ru">🌐 Portfolio</a> •
-  <a href="mailto:contact@lanrix-hub.ru">✉️ Email</a> •
-  <a href="https://t.me/morhpe">💬 Telegram</a>
+  <a href="https://lanrix-hub.ru">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:contact@lanrix-hub.ru">
+    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=protonmail&logoColor=000000" alt="Email">
+  </a>
+  <a href="https://t.me/morhpe">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
 </p>
 
 ---
