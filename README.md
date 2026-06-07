@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-- 🌍 I'm based in Russua, Ryazan
+- 🌍 I'm based in Russia, Ryazan
 - 👯 Open for work (remote / relocation)
 - ⚙️ Focus: backend architecture, APIs, infrastructure
 - 🤝 Open to collaborations
