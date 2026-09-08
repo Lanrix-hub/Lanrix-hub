@@ -49,24 +49,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-## 🌐 Lunaweb
-
-A platform for registering subdomains in production environments, located at https://lunaweb.ru
-
-A website for automated subdomain creation and management.
-
-- ⚙️ DNS record management
-- 🔐 Authentication and ownership verification
-- 📡 REST API for subdomain management
-- 🚀 Asynchronous background request processing
-- 🐳 Container deployment (Docker)
-- 🌍 Production deployment
-
-
----
-
 ## 🌐 Socials
 
 <p align="center">
