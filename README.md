@@ -52,9 +52,6 @@
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://github.com/Lanrix-hub">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
   <a href="https://www.twitch.tv/lanrix_hub">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
