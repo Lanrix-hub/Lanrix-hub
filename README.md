@@ -52,9 +52,6 @@
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://www.twitch.tv/lanrix_hub">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-  </a>
   <a href="https://discord.com/users/lqsf.">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
@@ -67,5 +64,4 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Lanrix-hub?style=for-the-badge&color=84cc16&labelColor=000000"/>
-  <img src="https://img.shields.io/twitch/status/lanrix_hub?style=for-the-badge&color=84cc16&labelColor=000000"/>
 </p>
