@@ -19,6 +19,9 @@
   <a href="https://t.me/morhpe">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
+  <a href="https://discord.com/users/lqsf.">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -45,19 +48,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx" />
-</p>
-
----
-
-## 🌐 Socials
-
-<p align="center">
-  <a href="https://discord.com/users/lqsf.">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://t.me/morhpe">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
 </p>
 
 ---
